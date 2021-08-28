@@ -1,1 +1,9 @@
-node_modules/
+node_modules
+.vscode
+.idea
+dist
+ReleaseVersion.txt
+~/.vscode-root
+public
+deploy.sh
+public_html/
